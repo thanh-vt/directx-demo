@@ -1,0 +1,3 @@
+F:/Programming/Cpp/directx-demo/cmake-build-debug-visual-studio/CMakeFiles/directx_demo.dir
+F:/Programming/Cpp/directx-demo/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+F:/Programming/Cpp/directx-demo/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
